@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/alex_brush</item>
+        <item>@font/headland_one</item>
+        <item>@font/new_rocker</item>
+        <item>@font/nova_square</item>
+        <item>@font/simonetta</item>
+    </array>
+</resources>

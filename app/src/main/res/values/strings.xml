@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Frame Maker</string>
+
+    <string-array name="spinner">
+
+        <item>Default</item>
+        <item>abeezee</item>
+        <item>alex_brush</item>
+        <item>headland_one</item>
+        <item>new_rocker</item>
+        <item>nova_square</item>
+        <item>simonetta</item>
+    </string-array>
+</resources>
